@@ -438,7 +438,7 @@ Where θ is the incidence angle between sun rays and panel normal. The closed-lo
 
 ## 10. Demo
 
-![](Helios-demonstration.mp4)
+![Download to view](Helios-demonstration.mp4)
 ---
 
 *HELIOS Team – VIT School of Electronics Engineering – Control Systems Project Review*
