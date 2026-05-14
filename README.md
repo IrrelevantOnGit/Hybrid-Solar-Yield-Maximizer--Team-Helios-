@@ -26,6 +26,7 @@
 7. [Configuration & Tuning](#7-configuration--tuning)
 8. [System Architecture](#8-system-architecture)
 9. [Troubleshooting](#9-troubleshooting)
+10. [Demo](#Demo)
 
 ---
 
@@ -434,6 +435,10 @@ Where θ is the incidence angle between sun rays and panel normal. The closed-lo
 | System parks at night in daylight | Night threshold too high | Lower `NIGHT_THRESHOLD` to 80–100 |
 | Panel doesn't track East→West | Azimuth servo polarity reversed | Swap the `+=` and `-=` in `hybridLogicControl()` for Azimuth |
 
+
+## 10. Demo
+
+![](Helios-demonstration.mp4)
 ---
 
 *HELIOS Team – VIT School of Electronics Engineering – Control Systems Project Review*
